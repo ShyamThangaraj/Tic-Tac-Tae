@@ -1,5 +1,13 @@
 # Tic-Tac-Toe Game
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Usage](#usage)
+4. [Dependencies](#dependencies)
+5. [How to Run](#how-to-run)
+6. [Author](#author)
+
 ## Overview
 
 This program is a simple implementation of the classic Tic-Tac-Toe game, allowing a user to play against a bot.
