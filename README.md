@@ -34,7 +34,7 @@ python tic_tac_toe.py
 ```
 
 
-##Author
+## Author
 
 - Shyam Thangaraj  <ts.shyam123@gmail.com>
  
